@@ -1,0 +1,6 @@
+{
+  "name": "MyMoney — Personal Finance Tracker",
+  "description": "Aplikasi pencatatan dan pengelolaan keuangan pribadi modern dengan pemasukan otomatis mingguan Rp50.000, pelacak saldo, target tabungan, kalender, dan analisis keuangan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
